@@ -1,0 +1,53 @@
+*{
+    border: 1px solid rgb(108, 108, 136);
+    margin: 4px;
+}
+
+body{
+    background-color: wheat;
+}
+
+header {
+    background-color: chartreuse;
+    color: white;
+}
+
+article{
+    background-color: yellow;
+    font-size: 16px;
+    color: white;
+}
+
+
+
+article header{
+    background-color:aqua;
+    color:brown
+}
+
+article a {
+    color: pink;
+    font-size: 35px;
+}
+
+/*Selectores por clase*/
+
+.header {
+    background-color: purple;   
+}
+
+.skills {
+    background-color:  silver;
+    color: white;
+}
+
+.abouter {
+    background-color: turquoise;
+    color: rgb(218, 209, 209);
+}
+
+#aboutme {
+    background-color: violet;
+    color: white;
+}
+
